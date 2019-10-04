@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Catalyst Core`,
-    description: `Speed up your Gatsby development workflow. Designed as an opinionated and high speed starter.`,
+    title: `Catalyst Blog`,
+    description: `Speed up your Gatsby development workflow.`,
     author: `Eric Howey`,
-    siteUrl: `https://gatsby-starter-catalyst-core.netlify.com`, //Change to you site address, required for sitemap.xml and robots.txt file
+    siteUrl: `https://gatsby-starter-catalyst-blog.netlify.com`, //Change to you site address, required for sitemap.xml and robots.txt file
     pageLinks: [
       {
         name: `Design System`,
         link: `/design-system`,
       },
       {
-        name: `Page 2`,
-        link: `/page-2`,
+        name: `Blog`,
+        link: `/blog`,
       },
     ],
     anchorLinks: [
@@ -54,6 +54,7 @@ module.exports = {
         headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
+    `gatsby-theme-catalyst-blog`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

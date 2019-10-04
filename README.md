@@ -1,4 +1,4 @@
-# Gatsby Starter Catalyst Core
+# Gatsby Starter Catalyst Blog
 
 **Blazing Start**
 
