@@ -1,11 +1,12 @@
 {
-  "name": "gatsby-starter-catalyst-core",
-  "description": "Gatsby Starter: A basic implementation of Gatsby-Theme-Catalyst-Core",
-  "version": "0.5.0",
+  "name": "gatsby-starter-catalyst-blog",
+  "description": "Gatsby Starter: A basic implementation of Gatsby-Theme-Catalyst-Blog",
+  "version": "0.0.1",
   "author": "Eric Howey <eric@erichowey.dev>",
   "dependencies": {
     "gatsby": "^2.15.28",
     "gatsby-theme-catalyst-core": "^0.6.3",
+    "gatsby-theme-catalyst-blog": "^0.0.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   },
@@ -29,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehowey/gatsby-starter-catalyst-core"
+    "url": "https://github.com/ehowey/gatsby-starter-catalyst-blog"
   },
   "bugs": {
-    "url": "https://github.com/ehowey/gatsby-starter-catalyst-core/issues"
+    "url": "https://github.com/ehowey/gatsby-starter-catalyst-blog/issues"
   }
 }
