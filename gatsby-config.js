@@ -24,6 +24,7 @@ module.exports = {
         link: `#anchor-2`,
       },
     ],
+    social: [],
     socialLinks: [
       {
         name: `Email`,
@@ -54,7 +55,7 @@ module.exports = {
         headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
-    `gatsby-theme-catalyst-blog`,
+    { resolve: `gatsby-theme-catalyst-blog`, options: {} },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
