@@ -55,7 +55,7 @@ module.exports = {
         headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
-    { resolve: `gatsby-theme-catalyst-blog`, options: {} },
+    `gatsby-theme-catalyst-blog`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
