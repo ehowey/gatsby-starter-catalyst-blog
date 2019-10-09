@@ -10,6 +10,10 @@ module.exports = {
         link: `/design-system`,
       },
       {
+        name: `Page 2`,
+        link: `/page-2`,
+      },
+      {
         name: `Blog`,
         link: `/blog`,
       },
@@ -24,7 +28,6 @@ module.exports = {
         link: `#anchor-2`,
       },
     ],
-    social: [],
     socialLinks: [
       {
         name: `Email`,
@@ -55,7 +58,15 @@ module.exports = {
         headerPosition: "static", // "static" or "sticky" work best, "fixed" is possible
       },
     },
-    `gatsby-theme-catalyst-blog`,
+    {
+      resolve: `gatsby-theme-catalyst-blog`,
+      options: {
+        //These are the default paths provided
+        basePath: `/blog`,
+        contentPath: `src/blog/posts`,
+        assetPath: `src/blog/assets`,
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
