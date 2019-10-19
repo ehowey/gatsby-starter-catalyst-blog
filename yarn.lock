@@ -5845,9 +5845,9 @@ gatsby-theme-catalyst-blog@^0.0.4:
     gatsby-theme-catalyst-core "^0.9.1"
 
 gatsby-theme-catalyst-core@^0.9.1:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.9.1.tgz#568e0774e3130a91cf87ff40b9c97db55a550fe9"
-  integrity sha512-rgA666uo57Wai+NHfXejjppXJ46/CyxYbnZRe8aQnHdAUfJdxEysWtOcWzlVbChleJ8If+vz7dO8MFsGSoeNdA==
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.9.2.tgz#5988fb202c2f120218b7fca3e6393b50952bfe2f"
+  integrity sha512-FYQnddOCI5sqDQjXai3l9FrCBs7BoGv92irr6ScpwwAoLW7rU6cZDho47ykdwa5OXFD5X+rfVhR75dI1PgqOsQ==
   dependencies:
     "@emotion/core" "^10.0.21"
     "@mdx-js/mdx" "^1.5.1"
