@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Catalyst Blog`,
+    title: `Blog`,
     description: `Speed up your Gatsby development workflow.`,
     author: `Eric Howey`,
     siteUrl: `https://gatsby-starter-catalyst-blog.netlify.com`, //Change to you site address, required for sitemap.xml and robots.txt file
