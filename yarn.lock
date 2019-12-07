@@ -5932,7 +5932,7 @@ gatsby-theme-blog-core@^1.0.17:
     gatsby-transformer-sharp "^2.3.7"
     remark-slug "^5.1.2"
 
-gatsby-theme-catalyst-blog@^0.1.0:
+gatsby-theme-catalyst-blog@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.1.1.tgz#9623823757a2aeddde7da6b6d0d203369a4d03a8"
   integrity sha512-Zr71V6LvC2HKaBXjKH8h1/Bfw3Y6Vxre/d+H4/WaPMoUKAhjdd0DzSyibqTzPfwiViz8c+zQUOFebIZgWfEG3w==
@@ -5973,7 +5973,7 @@ gatsby-theme-catalyst-core@^0.13.2:
     remark-slug "^5.1.2"
     theme-ui "^0.2.49"
 
-gatsby-theme-catalyst-core@^0.14.0, gatsby-theme-catalyst-core@^0.14.1:
+gatsby-theme-catalyst-core@^0.14.1:
   version "0.14.1"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.14.1.tgz#d903cd971b3f044b9fb8f0713844e4b61a9d2295"
   integrity sha512-NTCxCH6DghsRQj8MZL4C1BOq4ugVHWJ/esd5hDSxRaWu9XzPXf92uVl6dsyeExrekIqW3+uj+BTUhWcjRfqpyA==
