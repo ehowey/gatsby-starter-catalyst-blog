@@ -5933,9 +5933,9 @@ gatsby-theme-blog-core@^1.0.17:
     remark-slug "^5.1.2"
 
 gatsby-theme-catalyst-blog@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.2.0.tgz#b64de85dfbf136701677c9b7c4210016d870b734"
-  integrity sha512-8xy7kqBMx9gUiZo6qTlq2Y60aNUX7DEAUGZmNnFzwDO1QJChGiG1Ie8AyQ0/VGXWao58JUxwTLxPcpnpUvnXug==
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.2.1.tgz#20d79bcd27eb28201ba0b6560b6cd7e20a905e55"
+  integrity sha512-sZ1ZwwJRERAynv8PArtbe3UUZOarD4B54J1/Evpgoie2I3GiEhEVho8IfkE7gKFY0h2G17eRc1CBTkl4MvISYQ==
   dependencies:
     gatsby-theme-blog-core "^1.0.17"
 
