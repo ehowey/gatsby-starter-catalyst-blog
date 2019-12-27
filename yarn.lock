@@ -1501,9 +1501,9 @@
   integrity sha1-fyrX7FX5FEgvybHsS7GuYCjUYGY=
 
 "@types/node@*":
-  version "13.1.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.1.0.tgz#225cbaac5fdb2b9ac651b02c070d8aa3c37cc812"
-  integrity sha512-zwrxviZS08kRX40nqBrmERElF2vpw4IUTd5khkhBTfFH8AOaeoLVx48EC4+ZzS2/Iga7NevncqnsUSYjM4OWYA==
+  version "13.1.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.1.1.tgz#6d11a8c2d58405b3db9388ab740106cbfa64c3c9"
+  integrity sha512-hx6zWtudh3Arsbl3cXay+JnkvVgCKzCWKv42C9J01N2T2np4h8w5X8u6Tpz5mj38kE3M9FM0Pazx8vKFFMnjLQ==
 
 "@types/node@^7.0.11":
   version "7.10.9"
@@ -3597,17 +3597,17 @@ copyfiles@^2.1.1:
     yargs "^13.2.4"
 
 core-js-compat@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.6.0.tgz#4eb6cb69d03d99159ed7c860cd5fcf7d23a62ea9"
-  integrity sha512-Z3eCNjGgoYluH89Jt4wVkfYsc/VdLrA2/woX5lm0isO/pCT+P+Y+o65bOuEnjDJLthdwTBxbCVzptTXtc18fJg==
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/core-js-compat/-/core-js-compat-3.6.1.tgz#39638c935c83c93a793abb628b252ec43e85783a"
+  integrity sha512-2Tl1EuxZo94QS2VeH28Ebf5g3xbPZG/hj/N5HDDy4XMP/ImR0JIer/nggQRiMN91Q54JVkGbytf42wO29oXVHg==
   dependencies:
     browserslist "^4.8.2"
     semver "7.0.0"
 
 core-js-pure@^3.0.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.6.0.tgz#c86e14d9316659af04dd54266addc9271f6164f8"
-  integrity sha512-+YSSo7UFDFuVvMUr1HVFYArb22pYIKRDISBo6V50kRuS0MsXgsuDWmJYFu6dJsJupr77S486xRnDkr/BWQQonw==
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.6.1.tgz#59acfb71caf2fb495aae4c1a0b2a7f2c1b65267e"
+  integrity sha512-yKiUdvQWq66xUc408duxUCxFHuDfz5trF5V4xnQzb8C7P/5v2gFUdyNWQoevyAeGYB1hl1X/pzGZ20R3WxZQBA==
 
 core-js@2, core-js@^2.4.0, core-js@^2.5.7, core-js@^2.6.11, core-js@^2.6.5:
   version "2.6.11"
@@ -5965,10 +5965,10 @@ gatsby-telemetry@^1.1.46:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-blog@^0.3.2:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.3.3.tgz#0fa88870813b9fe572f3c946c0a20566fa5818fa"
-  integrity sha512-mys2ugxtdTIiv1XKkUKx/dNbO2VIk1r21Ft9oW/HUv+j+zyouQTaotq10151jSBwsJ6xK125uWp4ZSkhwDuA6w==
+gatsby-theme-catalyst-blog@^0.3.3:
+  version "0.3.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.3.4.tgz#b257c4cb22db953980da974ead974ab35be6dd8f"
+  integrity sha512-TXlyZsY9uSuf4KY5aJJje73U5z7tcicou/yDzqq11Ut9tdBS3SghdJOYntom/EjMsos3VDDKnXulNydiqwf7tg==
 
 gatsby-theme-catalyst-core@^0.16.1:
   version "0.16.1"
@@ -6010,7 +6010,7 @@ gatsby-theme-catalyst-footer-basic@^0.2.3:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.2.3.tgz#c74c4dd85d19e6d36871160854319a69d815e0b9"
   integrity sha512-Wgdu898NL7bIiH5uvqzaZD0NtLJ+2Sb/TJeKYwNoHgG6ytrqzWozFAM29X3Hhh1piC5Gp7D4q8W05pCYhTMx1Q==
 
-gatsby-theme-catalyst-header-basic@^0.3.1:
+gatsby-theme-catalyst-header-basic@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.3.2.tgz#cc6407edaa739dbc4178b2233d4c7a52361d50a4"
   integrity sha512-YKWV5ECjn63FBUCYPp4w3Comi0cB9ntJmcmb7VWCk6qELjSPoPRxDzYO35m9WzAGJvnheqnQRoY5aIgorVJ3iQ==
@@ -9107,9 +9107,9 @@ node-pre-gyp@*:
     tar "^4.4.2"
 
 node-releases@^1.1.42:
-  version "1.1.43"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.43.tgz#2c6ca237f88ce11d49631f11190bb01f8d0549f2"
-  integrity sha512-Rmfnj52WNhvr83MvuAWHEqXVoZXCcDQssSOffU4n4XOL9sPrP61mSZ88g25NqmABDvH7PiAlFCzoSCSdzA293w==
+  version "1.1.44"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.44.tgz#cd66438a6eb875e3eb012b6a12e48d9f4326ffd7"
+  integrity sha512-NwbdvJyR7nrcGrXvKAvzc5raj/NkoJudkarh2yIpJ4t0NH4aqjUDz/486P+ynIW5eokKOfzGNRdYoLfBlomruw==
   dependencies:
     semver "^6.3.0"
 
