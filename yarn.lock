@@ -829,7 +829,7 @@
     "@emotion/utils" "0.11.3"
     "@emotion/weak-memoize" "0.2.5"
 
-"@emotion/core@^10.0.0", "@emotion/core@^10.0.22":
+"@emotion/core@^10.0.0", "@emotion/core@^10.0.27":
   version "10.0.27"
   resolved "https://registry.yarnpkg.com/@emotion/core/-/core-10.0.27.tgz#7c3f78be681ab2273f3bf11ca3e2edc4a9dd1fdc"
   integrity sha512-XbD5R36pVbohQMnKfajHv43g8EbN4NHdF6Zh9zg/C0nr0jqwOw3gYnC07Xj3yG43OYSRyrGsoQ5qPwc8ycvLZw==
@@ -1205,7 +1205,7 @@
   dependencies:
     core-js "^2.5.7"
 
-"@mdx-js/mdx@^1.5.1":
+"@mdx-js/mdx@^1.5.3":
   version "1.5.3"
   resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-1.5.3.tgz#d0092d4e177331d4eaa65d60fa1f37e42fb251ea"
   integrity sha512-XxnOvyCQKri52tgaCXbV5NWnZGqgRsRifa/yJrxwWa6QG3vdFiEi/xokBHBf/62RCKRK4+QmbM4dSl0fgWIRNA==
@@ -5731,7 +5731,7 @@ gatsby-page-utils@^0.0.36:
     lodash "^4.17.15"
     micromatch "^3.1.10"
 
-gatsby-plugin-manifest@^2.2.30:
+gatsby-plugin-manifest@^2.2.34:
   version "2.2.34"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-2.2.34.tgz#578ad8ef689f06564097649a941744ace25d4b27"
   integrity sha512-Jo6fXZpJ/QSejrSj9BTfRNikVDjx9FuuKzT4w7il8I6qKtnM4z/lYOIMxRWkAdlK7dj+fpUlbTeClWjhlKRWAQ==
@@ -5782,7 +5782,7 @@ gatsby-plugin-mdx@^1.0.64:
     unist-util-remove "^1.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-plugin-offline@^3.0.25:
+gatsby-plugin-offline@^3.0.30:
   version "3.0.30"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-3.0.30.tgz#6dcca79fa94568ff19336c70091b859b44749aca"
   integrity sha512-aqv70nWayyjD88kre8mtDJ/AURQJYw8TScsqx9t+G64RgRtp/HTx5qVWdB9ab5NjJUjIFK474Lvjh9bpBPwTvg==
@@ -5795,7 +5795,7 @@ gatsby-plugin-offline@^3.0.25:
     lodash "^4.17.15"
     workbox-build "^4.3.1"
 
-gatsby-plugin-page-creator@^2.1.30, gatsby-plugin-page-creator@^2.1.37:
+gatsby-plugin-page-creator@^2.1.37:
   version "2.1.37"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-2.1.37.tgz#cfdcbbbe6cb9e347a0063714646be156e5959e44"
   integrity sha512-EsHDgT4hQx9Zxqf6zUIP9qQh+0Wk1tPyiJtPRADY1jkzwu2dAidJkaUtH4XR8BExhjZ9xYB5uDliSNrGkZg7fw==
@@ -5873,7 +5873,7 @@ gatsby-react-router-scroll@^2.1.19:
     scroll-behavior "^0.9.10"
     warning "^3.0.0"
 
-gatsby-remark-copy-linked-files@^2.1.31:
+gatsby-remark-copy-linked-files@^2.1.33:
   version "2.1.33"
   resolved "https://registry.yarnpkg.com/gatsby-remark-copy-linked-files/-/gatsby-remark-copy-linked-files-2.1.33.tgz#2c2cc75b85550350c4fd3dc3d395943eb654b067"
   integrity sha512-hRXwxlaFk39tfl2hCUL6vPg89IguQRfP+mrfJzyoDN3urFFVuw8D3+98xALaoidah6o9PIqtUEphvX1V6YKKTw==
@@ -5921,7 +5921,7 @@ gatsby-remark-smartypants@^2.1.19:
     retext-smartypants "^3.0.3"
     unist-util-visit "^1.4.1"
 
-gatsby-source-filesystem@^2.1.39:
+gatsby-source-filesystem@^2.1.43:
   version "2.1.43"
   resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-2.1.43.tgz#02652b41fcdd8999b2b2107edecdec8703273620"
   integrity sha512-lmq64xMgHE6cXwLgddogcx2THPsMCia/HivWRGK6DCJhCOXDbkWSiNYthpMIgZXkfsGaYFiVjxRZSSn1QVOU9g==
@@ -5971,37 +5971,37 @@ gatsby-theme-catalyst-blog@^0.4.0:
   integrity sha512-022UXPkXZQa9SQ3BOZCu5T/OJYktNx73Im38zm+XkyqeXCqcWOKwUNGyF+ew4DiF4odIkiYRqhdUM7LaZHAOuQ==
 
 gatsby-theme-catalyst-core@^0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.18.0.tgz#019b39ebec323107b9d345867c015d325a648eb2"
-  integrity sha512-Ru8DWKYLI2XND1bMS2hCHvZRfO8ZcMyixqH04OznWi5T+seerQAW9JfRXIQKxE2wEsp0r3YWrx0pjeCdi05SSA==
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.18.1.tgz#868f520d145ea5aea8aae9c47a24808168b653f0"
+  integrity sha512-Grx+XH4US+4IJQZ1w9c+2bXpzX0L7l172+JI1Jw1Yq2Znc8yVlct5V/GVVMXZi4s25bp+nXFM2hweW5Mc9wU3A==
   dependencies:
-    "@emotion/core" "^10.0.22"
-    "@mdx-js/mdx" "^1.5.1"
+    "@emotion/core" "^10.0.27"
+    "@mdx-js/mdx" "^1.5.3"
     "@mdx-js/react" "^1.5.3"
     "@theme-ui/components" "^0.2.50"
     "@theme-ui/preset-tailwind" "^0.2.42"
     deepmerge "^4.2.2"
     gatsby-image "^2.2.37"
-    gatsby-plugin-manifest "^2.2.30"
+    gatsby-plugin-manifest "^2.2.34"
     gatsby-plugin-mdx "^1.0.64"
-    gatsby-plugin-offline "^3.0.25"
-    gatsby-plugin-page-creator "^2.1.30"
+    gatsby-plugin-offline "^3.0.30"
+    gatsby-plugin-page-creator "^2.1.37"
     gatsby-plugin-react-helmet "^3.1.18"
     gatsby-plugin-robots-txt "^1.5.0"
     gatsby-plugin-sharp "^2.3.10"
     gatsby-plugin-sitemap "^2.2.24"
     gatsby-plugin-theme-ui "^0.2.53"
-    gatsby-remark-copy-linked-files "^2.1.31"
+    gatsby-remark-copy-linked-files "^2.1.33"
     gatsby-remark-images "^3.1.39"
     gatsby-remark-reading-time "^1.1.0"
     gatsby-remark-smartypants "^2.1.19"
-    gatsby-source-filesystem "^2.1.39"
-    gatsby-transformer-sharp "^2.3.6"
+    gatsby-source-filesystem "^2.1.43"
+    gatsby-transformer-sharp "^2.3.9"
     gatsby-transformer-yaml "^2.2.20"
     prop-types "^15.7.2"
     react-helmet "^5.2.1"
     react-icons "^3.8.0"
-    react-scroll "^1.7.14"
+    react-scroll "^1.7.15"
     remark-slug "^5.1.2"
     theme-ui "^0.2.52"
 
@@ -6015,7 +6015,7 @@ gatsby-theme-catalyst-header-basic@^0.5.0:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.5.0.tgz#6f58beddc0f4bf876342bf52d738e0a11a9d56a7"
   integrity sha512-jqzAjcCWEAzg3RqvE03BAVzaNxETPbpVF0nP0S/zRVRGSH/tIZ8pSvG0xcXVg7vdsP3PrYPrnqF64yGW5sVhlA==
 
-gatsby-transformer-sharp@^2.3.6:
+gatsby-transformer-sharp@^2.3.9:
   version "2.3.9"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-2.3.9.tgz#246dbed225079ba5cc26d56f1f6270e2d0fad8ca"
   integrity sha512-R5mZyniGAxMd7MA46l4eCdrRT9vP5Uz5TbaKdOWMAXpTu1KLFyRQAigjtcINV/haC4xS8Q4NezdpxpZ2Bw8DHg==
@@ -10859,7 +10859,7 @@ react-reconciler@^0.24.0:
     prop-types "^15.6.2"
     scheduler "^0.18.0"
 
-react-scroll@^1.7.14:
+react-scroll@^1.7.15:
   version "1.7.15"
   resolved "https://registry.yarnpkg.com/react-scroll/-/react-scroll-1.7.15.tgz#90da4a1e953e620ae37be42747e0835b473158db"
   integrity sha512-4AtQ/4GZmTW7CIQrVQhLvt3pMkITDvyXz6F3DZS3IOoux3fmccBRUR/x9wORupLbuKFlzOX1CoceDMpMgY7Tig==
