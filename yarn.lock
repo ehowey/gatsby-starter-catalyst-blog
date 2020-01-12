@@ -6064,7 +6064,7 @@ gatsby-theme-catalyst-footer-basic@^0.3.0:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.3.0.tgz#60cd774efa1d75757e8821100c22c06731e09875"
   integrity sha512-67o7CmnoJ/T/V49cLYVViiEu8JfyG0/1SYEk3kD4zuY/KxlAazgQGqxnKdmzbqu/kmbrkpAbgQUQQuEn3n4HuQ==
 
-gatsby-theme-catalyst-header-basic@^0.5.3:
+gatsby-theme-catalyst-header-basic@^0.5.4:
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.5.4.tgz#40b69196560ce0b29ce33eca1c6d1edf93db9e5e"
   integrity sha512-jZ/829/E9nUwBOiDPi6wicCrinyHZPMUdpo+bEEfPTDy0pa1ge8e3ZZjE+TE5v9wMPPGaX5qxnD2b5kZu8Foqg==
