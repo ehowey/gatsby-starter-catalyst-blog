@@ -6065,9 +6065,9 @@ gatsby-theme-catalyst-footer-basic@^0.3.0:
   integrity sha512-67o7CmnoJ/T/V49cLYVViiEu8JfyG0/1SYEk3kD4zuY/KxlAazgQGqxnKdmzbqu/kmbrkpAbgQUQQuEn3n4HuQ==
 
 gatsby-theme-catalyst-header-basic@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.5.2.tgz#b0d3cc98ebbb48a0b41ea8f0b12888d06280452f"
-  integrity sha512-3IUprfZhreOPbk/d4mgUI+UFmgejl2TDmMscJZqzZtr5OaMWAQ9DZRTuEqmA70cI8EnhE8sZE2TZJX47maII4Q==
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.5.3.tgz#4530dc50fa3abe1d67b085afcac6801548a446bb"
+  integrity sha512-KZ75Ay5xXpKECkSj1ykut9kSi4cxtvdDahgWI0O8iQGvf73YgaLYiaVY70gMKWjj2DYDk/ao56oOdsh1PgEhWQ==
 
 gatsby-transformer-sharp@^2.3.9:
   version "2.3.12"
