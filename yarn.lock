@@ -1599,9 +1599,9 @@
   integrity sha1-fyrX7FX5FEgvybHsS7GuYCjUYGY=
 
 "@types/node@*":
-  version "13.5.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.5.0.tgz#4e498dbf355795a611a87ae5ef811a8660d42662"
-  integrity sha512-Onhn+z72D2O2Pb2ql2xukJ55rglumsVo1H6Fmyi8mlU9SvKdBk/pUSUAiBY/d9bAOF7VVWajX3sths/+g6ZiAQ==
+  version "13.5.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-13.5.1.tgz#6fae50892d1841f4b38b298e2f78fb68c5960cb9"
+  integrity sha512-Jj2W7VWQ2uM83f8Ls5ON9adxN98MvyJsMSASYFuSvrov8RMRY64Ayay7KV35ph1TSGIJ2gG9ZVDdEq3c3zaydA==
 
 "@types/node@^7.0.11":
   version "7.10.9"
@@ -4228,9 +4228,9 @@ default-gateway@^4.2.0:
     ip-regex "^2.1.0"
 
 defer-to-connect@^1.0.1:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/defer-to-connect/-/defer-to-connect-1.1.2.tgz#10aac87c9d9bd3c92b03ded222f93f83a19b6d19"
-  integrity sha512-pEsi2ZYLO+GroqxmPjoeKoxgZLIm4pUr6YLghbMAHXpu2vwgo910E5yfUWY39jE8zZFkhPUX4IIeWxzPxzQ1DA==
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/defer-to-connect/-/defer-to-connect-1.1.3.tgz#331ae050c08dcf789f8c83a7b81f0ed94f4ac591"
+  integrity sha512-0ISdNousHvZT2EiFlZeZAHBUvSxmKswVCEf8hW7KWgG4a8MVEu/3Vb6uWYozkjylyCxe0JBIiRB1jV45S70WVQ==
 
 define-properties@^1.1.2, define-properties@^1.1.3:
   version "1.1.3"
