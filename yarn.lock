@@ -6075,9 +6075,9 @@ gatsby-theme-catalyst-blog@^0.7.2:
   integrity sha512-f0rM2tYg1Em8sq0yd/6Va1Mpt3609CFMQy+t1IE04B030UM01NrSx4D0oaFe6FU96sullGT8KdT/tRyGPZ1PQw==
 
 gatsby-theme-catalyst-core@^0.22.2:
-  version "0.22.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.22.2.tgz#8e1adb6d366a098d633bc69640e6ad55872c92d4"
-  integrity sha512-Myi96vVZCPTlHX5u4FMzdN8yYsFSgpz2/QMsi1+7gqxfjT/zoeYbhNtYL20aIP40dpExqUMsdQ8DEURYZErW1g==
+  version "0.22.3"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.22.3.tgz#52ffb395a2909c00ce8ac8c23ed3cedd39614491"
+  integrity sha512-L3lJBuhDvA+SdptbDZY9q+u9yUs33sQnORJZ5+iiRaycWus0r0182eax/mvghr+mMSV5fxY6ZLv0ctGMxuPw+Q==
   dependencies:
     "@mdx-js/mdx" "^1.5.5"
     "@mdx-js/react" "^1.5.5"
