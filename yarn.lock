@@ -6053,10 +6053,10 @@ gatsby-telemetry@^1.1.49:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-blog@^0.7.2:
-  version "0.7.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.7.2.tgz#7da5bc65ae741d3bec70e2f333384ae45fa94218"
-  integrity sha512-f0rM2tYg1Em8sq0yd/6Va1Mpt3609CFMQy+t1IE04B030UM01NrSx4D0oaFe6FU96sullGT8KdT/tRyGPZ1PQw==
+gatsby-theme-catalyst-blog@^0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.8.0.tgz#0559e94ba1f72c882be57809e0f62dcb71341020"
+  integrity sha512-nW2MmAahBsX02KWnQQdw+KLdO5zurIUuUbrYqRB13jsbikM1W0BNfUAlxbPxcXe4/FJhH+s7XcMtDcwel8fEaQ==
 
 gatsby-theme-catalyst-core@^0.22.4:
   version "0.22.4"
