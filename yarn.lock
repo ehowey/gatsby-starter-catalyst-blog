@@ -6015,10 +6015,10 @@ gatsby-theme-catalyst-blog@^0.8.1:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-0.8.1.tgz#571bde5d84144093b58b0c195c162ecf0ee7e799"
   integrity sha512-ZSwDrD0P8vBqtpCsh0kD6H0FS9xFEtHg1JOzzp76BwUrV/OeQg6ZvwS/pqKqSZ5ew4hIKl5tEephEDxqT+7LjQ==
 
-gatsby-theme-catalyst-core@^0.22.4:
-  version "0.22.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.22.4.tgz#3f5cd963a18183ddce707bc40ff776b240fbed3b"
-  integrity sha512-n2BMsEJ3kO1UmxLj3WOfHSAfbz5q2pFGYl9psWwRDHi2g5t9MpHKYpdjxcQZVBnnFdenl4ar8T+Br68hgzO3RA==
+gatsby-theme-catalyst-core@^0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.23.0.tgz#100250a6e3244274a4ce75e8d0aa8eee9747da75"
+  integrity sha512-AIBVtbl20ptFT9xxLCzlSETqhEO1BHBIsk98J82CeGZLNoCYj+DHjSYUb0HrmZBFimvwskSAL6Ikj/WLQyOcLw==
   dependencies:
     "@mdx-js/mdx" "^1.5.5"
     "@mdx-js/react" "^1.5.5"
@@ -6055,10 +6055,10 @@ gatsby-theme-catalyst-footer@^0.2.2:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-0.2.2.tgz#dd715b6c29777ac60517b30959712b0630d48673"
   integrity sha512-CJ1ECmkT5kzNFCSIb1cPj1jJjga3JBPsyMOMq9JMpitVgrwEsBATMbVMv6QvjT8FJhV96pKDxkX4K1R2JvDc7Q==
 
-gatsby-theme-catalyst-header-side@^0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-side/-/gatsby-theme-catalyst-header-side-0.2.4.tgz#77e4ac985e14c90bd69b4860e6c275e2b341c726"
-  integrity sha512-T/+b2TdtDkoz9bXcIJLNiG7/qTKgHlBnt3b3p4UFGffCVyQcRU9z5TG8Lbet5hbcTktSRiCVrJtrPOfTfefKQA==
+gatsby-theme-catalyst-header-side@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-side/-/gatsby-theme-catalyst-header-side-0.3.0.tgz#1cf9566be330e327cc386da08e8679421cc9036d"
+  integrity sha512-vEa6Mch9MhjiAZK3vjVlIDkEBr3xsOJ2RQQ35tyYGzEKMNLmR2rYhBOIUs9ES8G4hhE5QcO3KEGP5i0J1ZMMrA==
 
 gatsby-transformer-sharp@^2.3.14:
   version "2.3.16"
