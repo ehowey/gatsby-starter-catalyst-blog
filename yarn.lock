@@ -7143,7 +7143,7 @@ gatsby-theme-catalyst-blog@^2.4.1:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-2.4.1.tgz#2b508d44fef434828bcd412b37bde0912edc16e1"
   integrity sha512-wgp1obyfj8y+aHzyWAX/fyAwlcRn7+CFwcSjc0rWQYyGLC7ZTkt4x1zRpZwEtUPCq9KV2NwTwjjOa80lmp6zkQ==
 
-gatsby-theme-catalyst-core@^1.2.13:
+gatsby-theme-catalyst-core@^1.2.14:
   version "1.2.14"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.2.14.tgz#1ee333ea2b950983872e43f7636ee4632ff89f4a"
   integrity sha512-bPXMds8H+H7MbIzuKXCZGRsCpRkvJyrXNRovCheQTR4JEQ4XCiv6aIWTmIlQBDWxzm21Z3VF4+v6p15SSl0nuQ==
