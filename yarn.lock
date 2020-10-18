@@ -7382,10 +7382,10 @@ gatsby-theme-catalyst-blog@^2.6.2:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-2.6.2.tgz#5675427b1bdccfda27820620c52786744ef32e23"
   integrity sha512-/Yt2lifADmfZ/I153569eTbohhntwskSywAXAkCcnNP3OI7xxKA0YZTfdmewSooRvR5TZLYjO1LAu1gQxwsrCw==
 
-gatsby-theme-catalyst-core@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-2.2.2.tgz#d6f44d82c5b753b33903189f65b7f760f9fb27ba"
-  integrity sha512-8cgEiq9LhTVtYi09M2vEkR/aQ6AKQaxoIjAPBym3FcIeS4lgUOU6ydbju/3B9NjVLtk70OX7ARZPBxjev3+xdA==
+gatsby-theme-catalyst-core@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-2.3.0.tgz#d9f52db971c94db0e4a684b2c0a51d1504acfc10"
+  integrity sha512-4J3LKl4h/nQFU39gkcXfLijiGUpe/QI5elMfzi9kF9Tux4xmLV9j2dN5natnlCZ/lq2T5+h7aDxxy06qOJ4apQ==
   dependencies:
     "@mdx-js/mdx" "^1.6.18"
     "@mdx-js/react" "^1.6.18"
